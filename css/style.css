@@ -304,4 +304,9 @@ body{
         left: 0px;
     }
 
+    .bnbmockup{
+        height: 0px;
+        visibility: hidden;
+    }
+
 }
